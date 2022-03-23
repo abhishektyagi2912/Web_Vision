@@ -47,7 +47,7 @@ while True:
     speak("How can I help you?")
     voice = recognize_speech().lower()
     print(voice)
-    if 'open google' or 'search google' or 'google' in voice:
+    if 'open google' in voice:
         speak('Opening google..')
         driver.execute_script("window.open('');")
         window_list = driver.window_handles
