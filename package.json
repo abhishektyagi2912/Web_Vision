@@ -1,5 +1,5 @@
 {
-    "name": "Web Vision",
+    "name": "web-vision",
     "version": "1.0.0",
     "description": "A Chrome extension that eb Vision the webpage's content with just one click. Support 40+ languages.",
     "directories": {
