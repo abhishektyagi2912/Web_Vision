@@ -2,7 +2,7 @@
     "manifest_version": 2,
 
     "name": "WEB VISION",
-    "description": "VISION FOR VISUALL IMPAIRED",
+    "description": "VISION FOR VISUALLY IMPAIRED",
     "version": "1.0.0",
     "default_locale": "en",
 
@@ -71,9 +71,9 @@
             "suggested_key": { "default": "Alt+S" },
             "description": "stop"
         },
-        "forward": {
-            "suggested_key": { "default": "Alt+D" },
-            "description": "forward"
+        "_execute_browser_action": {
+            "suggested_key": "Ctrl+Shift+X",
+            "description": "Activate the extension"
         },
         "rewind": {
             "suggested_key": { "default": "Alt+A" },
