@@ -17,9 +17,9 @@ Chrome web driver in accordance to the installed version of chrome (Current vers
 Download/Clone the repository 
 
 Run the following command in current directory terminal
-
-```pip install -r requirements.txt```
-
+```
+pip install -r requirements.txt
+```
 
 ### Usage:
 
