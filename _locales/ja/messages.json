@@ -1,6 +1,6 @@
 {
   "extension_name": {
-    "message": "Read Aloud: テキスト読み上げ音声リーダー"
+    "message": "Web Vision: テキスト読み上げ音声リーダー"
   },
   "extension_short_name": {
     "message": "読み上げる"
@@ -81,7 +81,7 @@
     "message": "拡張子[設定]のファイルURLへの読み上げアクセスを許可する必要があります (open-extension-settings)"
   },
   "error_add_permissions": {
-    "message": "このウェブサイトにReadAloudの追加の[権限](request-permissions)を付与する必要があります"
+    "message": "このウェブサイトにWeb Visionの追加の[権限](request-permissions)を付与する必要があります"
   },
   "error_login_required": {
     "message": "プレミアムボイスを使用するには、[サインイン](sign-in)してください"
@@ -105,12 +105,12 @@
     "message": "オプションに戻る"
   },
   "google_translate_request_permission": {
-    "message": "Read Aloudは、テキスト読み上げにGoogle翻訳を使用しようとしています。"
+    "message": "Web Visionは、テキスト読み上げにGoogle翻訳を使用しようとしています。"
   },
   "google_translate_allow_button": {
     "message": "許可する"
   },
   "google_translate_keep_page_open": {
-    "message": "Read Aloudは、テキスト読み上げにGoogle翻訳を使用しています。このタブは開いたままにしてください。"
+    "message": "Web Visionは、テキスト読み上げにGoogle翻訳を使用しています。このタブは開いたままにしてください。"
   }
 }
