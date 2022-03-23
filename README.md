@@ -11,14 +11,14 @@ It centers around the needs of the visually impaired, and will combine multiple 
 ### Requirements:
 Python version 3.7
 
-Chrome web driver in accordance to the installed version of chrome
+Chrome web driver in accordance to the installed version of chrome (Current version in the project is 99.0.4844.51)
 
 ### Installation:
 Download/Clone the repository 
 
 Run the following command in current directory terminal
 
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 
 
 ### Usage:
