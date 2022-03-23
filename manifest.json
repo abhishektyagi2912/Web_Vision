@@ -1,9 +1,8 @@
 {
     "manifest_version": 2,
 
-    "name": "__MSG_extension_name__",
-    "short_name": "__MSG_extension_short_name__",
-    "description": "__MSG_extension_description__",
+    "name": "WEB VISION",
+    "description": "VISION FOR VISUALL IMPAIRED",
     "version": "1.0.0",
     "default_locale": "en",
 
