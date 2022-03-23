@@ -1,5 +1,5 @@
 
-var readAloudDoc = new function() {
+var webvisionDoc = new function() {
   var $btnPrev = $(".chapter-bar-prev-button")
   var $btnNext = $(".chapter-bar-next-button")
   var currentIndex;
