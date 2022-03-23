@@ -1,9 +1,9 @@
 {
   "extension_name": {
-    "message": "Read Aloud: Un Lettore Vocale da Testo a Voce"
+    "message": "Web Vision: Un Lettore Vocale da Testo a Voce"
   },
   "extension_short_name": {
-    "message": "Read Aloud"
+    "message": "Web Vision"
   },
   "extension_description": {
     "message": "Legge ad alta voce la pagina web con un click. Supporta 40+ lingue."
@@ -84,12 +84,12 @@
     "message": "Torna alle opzioni"
   },
   "google_translate_request_permission": {
-    "message": "Read Aloud vorrebbe utilizzare Google Translate per la sintesi vocale."
+    "message": "Web Vision vorrebbe utilizzare Google Translate per la sintesi vocale."
   },
   "google_translate_allow_button": {
     "message": "Permettere"
   },
   "google_translate_keep_page_open": {
-    "message": "Read Aloud sta usando Google Translate per la sintesi vocale. Si prega di tenere questa scheda aperta."
+    "message": "Web Vision sta usando Google Translate per la sintesi vocale. Si prega di tenere questa scheda aperta."
   }
 }

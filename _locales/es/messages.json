@@ -1,9 +1,9 @@
 {
   "extension_name": {
-    "message": "Read Aloud: Texto A Voz"
+    "message": "Web Vision: Texto A Voz"
   },
   "extension_short_name": {
-    "message": "Read Aloud"
+    "message": "Web Vision"
   },
   "extension_description": {
     "message": "Lea en voz alta el artículo actual con un solo clic."
@@ -84,12 +84,12 @@
     "message": "Volver a la configuración"
   },
   "google_translate_request_permission": {
-    "message": "Read Aloud le gustaría usar el Traductor de Google para síntesis de voz."
+    "message": "Web Vision le gustaría usar el Traductor de Google para síntesis de voz."
   },
   "google_translate_allow_button": {
     "message": "Permitir"
   },
   "google_translate_keep_page_open": {
-    "message": "Read Aloud está usando el Traductor de Google para síntesis de voz. Por favor, mantenga esta pestaña abierta."
+    "message": "Web Vision está usando el Traductor de Google para síntesis de voz. Por favor, mantenga esta pestaña abierta."
   }
 }
