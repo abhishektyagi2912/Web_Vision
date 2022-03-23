@@ -34,7 +34,7 @@ Available Voice commands:
 -Open News
 -Open URL
 -sleep
--tab switch
+-scroll tab
 -close tab
 -go back
 -go forward
