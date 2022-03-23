@@ -1,9 +1,9 @@
 {
   "extension_name": {
-    "message": "Read Aloud: A Text to Speech Voice Reader"
+    "message": "Web Vision: A Text to Speech Voice Reader"
   },
   "extension_short_name": {
-    "message": "Read Aloud"
+    "message": "Web Vision"
   },
   "extension_description": {
     "message": "Read aloud the current web-page article with one click, using text to speech (TTS). Supports 40+ languages."
@@ -99,10 +99,10 @@
     "message": "Cannot read aloud this website"
   },
   "error_file_access": {
-    "message": "You need to grant Read Aloud access to file URLs in extension [settings](open-extension-settings)"
+    "message": "You need to grant Web Vision access to file URLs in extension [settings](open-extension-settings)"
   },
   "error_add_permissions": {
-    "message": "You need to grant Read Aloud additional [permissions](request-permissions) for this website"
+    "message": "You need to grant Web Vision additional [permissions](request-permissions) for this website"
   },
   "error_login_required": {
     "message": "Please [sign in](sign-in) to use the Premium Voices"
@@ -126,12 +126,12 @@
     "message": "Back to Options"
   },
   "google_translate_request_permission": {
-    "message": "Read Aloud would like to use Google Translate for text-to-speech."
+    "message": "Web Vision would like to use Google Translate for text-to-speech."
   },
   "google_translate_allow_button": {
     "message": "Allow"
   },
   "google_translate_keep_page_open": {
-    "message": "Read Aloud is using Google Translate for text-to-speech.  Please keep this tab open."
+    "message": "Web Vision is using Google Translate for text-to-speech.  Please keep this tab open."
   }
 }
