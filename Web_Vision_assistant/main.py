@@ -10,7 +10,7 @@ from pyautogui import keyDown, keyUp, press
 
 chrome_options = ChromeOptions()
 chrome_options.add_extension('Web_Vision.crx')
-s = Service('C:\\Users\\anees\\PycharmProjects\\Browser\\chromedriver.exe')
+s = Service('./chromedriver.exe')
 driver = webdriver.Chrome('./chromedriver.exe', options=chrome_options, service=s)
 # driver = webdriver.Chrome('C:\\Users\\anees\\PycharmProjects\\Browser\\chromedriver.exe')
 driver.maximize_window()
