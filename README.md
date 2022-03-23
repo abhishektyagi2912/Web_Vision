@@ -1,3 +1,4 @@
+![Untitled (Facebook Cover)](https://user-images.githubusercontent.com/81071871/159799544-a86f4ed5-27c4-4554-81fe-10858fcde444.png)
 
 # WebVision
 
@@ -8,11 +9,14 @@ It centers around the needs of the visually impaired, and will combine multiple 
 
 ### Requirements:
 Python version 3.7
+
 Chrome web driver in accordance to the installed version of chrome
 
 ### Installation:
 Download/Clone the repository 
+
 Run the following command in current directory terminal
+
 ```pip install requirements.txt```
 
 
@@ -57,8 +61,7 @@ This project will use Javascript, HTML and CSS for the chrome extension and Pyth
 It uses : 
 * Google Translate API - Used to translate the text from the source language to the desired language.
 * Web Speech API- Used for speech synthesis in the chrome extension to convert the written text to audio.
-![Capture](https://user-images.githubusercontent.com/81071871/159797099-195b9e8a-baa4-47e0-9025-619cbf196480.PNG)
-
+![image](https://user-images.githubusercontent.com/81071871/159798979-f5535251-34ca-4d7f-8f8d-91cbc9fcc5bd.png)
 #### Voice Assistant:
 The user will be able to use voice commands to open a web page, read page, search and playback control commands to navigate and access the content on the web.
 
