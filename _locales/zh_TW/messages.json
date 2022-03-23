@@ -1,9 +1,9 @@
 {
   "extension_name": {
-    "message": "Read Aloud: 文字語音朗讀助理"
+    "message": "Web Vision: 文字語音朗讀助理"
   },
   "extension_short_name": {
-    "message": "Read Aloud"
+    "message": "Web Vision"
   },
   "extension_description": {
     "message": "輕輕點選，即可為您朗讀頁面上的文字。（目前支援超過 40 種以上的語言）"
@@ -99,12 +99,12 @@
     "message": "返回選項"
   },
   "google_translate_request_permission": {
-    "message": "Read Aloud 希望使用 Google Translate 進行語音合成。"
+    "message": "Web Vision 希望使用 Google Translate 進行語音合成。"
   },
   "google_translate_allow_button": {
     "message": "允許"
   },
   "google_translate_keep_page_open": {
-    "message": "Read Aloud 正在使用 Google Translate 進行語音合成。請保持此標籤打開。"
+    "message": "Web Vision 正在使用 Google Translate 進行語音合成。請保持此標籤打開。"
   }
 }
