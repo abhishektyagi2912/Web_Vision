@@ -102,7 +102,7 @@ while True:
         element.clear()
         element.send_keys(query)
         element.send_keys(Keys.RETURN)
-    elif 'tab switch' in voice:
+    elif 'scroll tab' in voice:
         num_tabs = len(driver.window_handles)
         cur_tab = 0
         for i in range(num_tabs):
