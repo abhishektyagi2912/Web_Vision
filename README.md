@@ -88,6 +88,6 @@ It uses :
 * Complete access of the web only through voice commands for the visually impaired.
 
 
-### Demo Video :
+# Demo Link :
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fnFSECa8NQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/fnFSECa8NQY
