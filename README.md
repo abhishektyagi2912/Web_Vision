@@ -88,6 +88,6 @@ It uses :
 * Complete access of the web only through voice commands for the visually impaired.
 
 
-# Demo Link :
+# Project Video Link :
 
-https://youtu.be/fnFSECa8NQY
+https://www.youtube.com/watch?v=6-foe5rDckU
