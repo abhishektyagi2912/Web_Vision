@@ -73,7 +73,11 @@ It uses :
 * Pyttsx3 - Responsible for text-to-speech conversion
 * PyAutoGUI - It is used to convert voice commands into hotkey instructions (keyboard shortcuts) required to invoke the extension to enable a hands-free experience.
   
-  
+### Flow Chart:
+
+
+![WhatsApp Image 2022-03-24 at 5 37 33 AM](https://user-images.githubusercontent.com/85986613/159821095-cf3a3ffc-8697-4a86-b90b-0a136a5891ee.jpeg)
+
 
 ### Future plans:
 
