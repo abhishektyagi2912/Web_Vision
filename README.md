@@ -1,9 +1,9 @@
 
 ![WhatsApp Image 2022-03-24 at 03 14 41](https://user-images.githubusercontent.com/81071871/159801043-ef878b3a-378a-4483-a118-bac39f760e17.jpeg)
 
-# WebVision
+# Web Vision
 
-Webvision is planned to be a complete solution for the visually impaired. The World Wide Web is the center for information and knowledge sharing. The internet connects the world and we think that no one should be left behind.
+Web Vision is planned to be a complete solution for the visually impaired. The World Wide Web is the center for information and knowledge sharing. The internet connects the world and we think that no one should be left behind.
 
 It centers around the needs of the visually impaired, and will combine multiple features such as voice commands, text to speech content to simplify accessing visual information by persons with visual disability. Thus, it will improve accessibility and provide them a user friendly environment.
 
